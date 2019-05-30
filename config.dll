@@ -1,0 +1,12 @@
+[Settings]
+Fullscreen=0
+FullscreenRatio=1
+WindowedRatio=1
+defScreenW=1280
+defScreenH=720
+
+[Build]
+1
+
+[Others]
+Language=de
